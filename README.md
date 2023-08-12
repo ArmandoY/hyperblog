@@ -10,6 +10,7 @@
   - Las personalidades multiples de Armando
   - Creado por el increible Platzi Team
   - Incluye ejemplos en Windows, Linux y Mac
+  - Disponibles para todas las edades
   
   Y como un amable recordatorio: Este readme.md es un chiste. Disenado
   para el ejemplo. Si llegas aca NO TE LO TOMES EN SERIO y mejor ve a ver el curso. (https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/)
